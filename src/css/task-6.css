@@ -1,0 +1,25 @@
+#controls {
+	display: flex;
+	padding: 32px;
+	align-items: flex-start;
+	gap: 16px;
+}
+
+.button {
+	display: flex;
+	width: 120px;
+	padding: 8px 16px;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+
+	border-radius: 8px;
+}
+
+.create-btn {
+	background-color: #4e75ff;
+}
+
+.destroy-btn {
+	background-color: #ff4e4e;
+}
